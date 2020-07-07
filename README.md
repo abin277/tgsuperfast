@@ -1,0 +1,2 @@
+# tgsuperfast
+Super fast bot
